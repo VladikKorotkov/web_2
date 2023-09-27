@@ -2,4 +2,4 @@
 Korotkov Vladislav
 172301
 
-Wow! New info
+Info from GitHub
